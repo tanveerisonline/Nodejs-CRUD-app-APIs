@@ -1,0 +1,1 @@
+{"version":3,"file":"express.d.ts","sourceRoot":"","sources":["../../src/instrumentation/express.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,aAAa,CAAC;AAEvC,wBAAgB,cAAc,CAAC,QAAQ,EAAE,QAAQ,sCACK,IAAI,CAmBzD;AAED,wBAAgB,gBAAgB,CAAC,QAAQ,EAAE,QAAQ,SACP,KAAK,qCAAoB,IAAI,CA8BxE"}
